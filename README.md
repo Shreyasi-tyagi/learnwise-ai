@@ -6,6 +6,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+Experience the live application in your browser:  
+👉 **[🚀 Try LearnWise AI](https://learnwise-ai-two.vercel.app)**
+
+---
+
 ## 1. Overview
 
 **LearnWise AI** is a full-stack personalized learning platform designed to help students, beginners, and developers master technical skills with structure, focus, and real-time guidance. 
